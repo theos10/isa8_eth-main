@@ -4,7 +4,8 @@ ISA 8-Bit Ethernet Network Interface Controller
 ## Introduction
 ISA 8-Bit Ethernet Controller is an open source network interface controller (NIC) card, designed specifically to be used in computers with 8-bit only ISA (aka XT) bus, such as IBM* PC, IBM* PC XT, various PC/XT compatibles, for example [Micro 8088](https://github.com/skiselev/micro_8088) system. It is based on Realtek RTL8019 ethernet controller and is NE2000-compatible.
 
-![ISA 8-Bit Ethernet - Assembled Board](images/ISA8_Ethernet-Assembled_Board_Mid_Res.jpg)
+![ISA 8-Bit Ethernet - PCB Top](images/ISA8_Ethernet-Assembled_Board_PCBTOP.png)
+![ISA 8-Bit Ethernet - PCB Bottom](images/ISA8_Ethernet-Assembled_Board_PCBBOTTOM.png)
 
 ## Revision
 Upgrade of the PCP to Low Profile by FOURNIER Ghislain.
