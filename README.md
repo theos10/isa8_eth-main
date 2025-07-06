@@ -1,4 +1,4 @@
-# ISA 8-Bit Ethernet Controller
+# ISA 8-Bit Ethernet Controller Low Profile
 ISA 8-Bit Ethernet Network Interface Controller
 
 ## Introduction
